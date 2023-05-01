@@ -11,5 +11,5 @@ class CalcTest(SimpleTestCase):
         self.assertEqual(res, 12)
     
     def test_sub_num(self):
-        res = calc.substract(10,4)
+        res = calc.substract(10, 4)
         self.assertEqual(res, 6)
