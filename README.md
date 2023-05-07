@@ -1,1 +1,1 @@
-# recipe-api-app
+# Recipe API Django and Docker
