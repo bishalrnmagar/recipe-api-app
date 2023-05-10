@@ -1,6 +1,7 @@
 # Recipe API Django and Docker
 
 This recipe api is made in Django and Docker.
+* Python
 * Django
 * Django Rest Framework
 * Docker
@@ -8,7 +9,7 @@ This recipe api is made in Django and Docker.
 * Drf Spectacular 
 
 ✔ Test Driven Development <br/>
-✔ With API Documentation
+✔ With API Documentation 
 
 # Getting Started
 
