@@ -9,7 +9,8 @@ This recipe api is made in Django and Docker.
 * Drf Spectacular 
 
 ✔ Test Driven Development <br/>
-✔ With API Documentation 
+✔ With API Documentation  <br/>
+✔ Automated Github CI/CD flows
 
 # Getting Started
 
